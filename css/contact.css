@@ -1,0 +1,24 @@
+#maincol{ background: #ffffff; padding: 0 60px 0 170px; margin: 0; }
+
+#editorial p.dlPDF{ float: right; margin: 45px 0 0 0; } 
+p.dlPDF a{ width: 74px; height: 20px;background: url(/images/btn/btn-rss.gif) top left no-repeat; padding: 0; border: none; }
+
+.template-contact h2{ font-size: 20px; font-weight: normal; line-height: 28px; font-family: Georgia, Times, Serif;
+	margin-bottom: 20px;  }
+.template-contact h4.contact{ height: 79px; background: url(/images/h/h-contact.gif) top left no-repeat; margin: 0; padding: 0; }
+.template-contact h4.request-proposal{ height: 79px; background: url(/images/h/h-request-proposal.gif) top left no-repeat; margin: 0; padding: 0; }
+.template-contact h4.request-consultation{ height: 79px; background: url(/images/h/h-request-consultation.gif) top left no-repeat; margin: 0; padding: 0; }
+
+.template-contact div#contact{ margin: 0; border-top: 1px solid #47E1F1; padding-top: 20px; }
+.template-contact div.block{ width: 335px; float: left; margin: 0 0 40px 0; border-top: none; padding: 0 0 0 0; }
+.template-contact div.alt{ float: right; }
+.template-contact div.block img{ border: 10px solid #f2f2f2; margin-bottom: 12px; }
+
+.template-contact h4.services{ height: 79px; background: url(/images/h/h-services.gif) top left no-repeat; margin: 0; padding: 0; }
+
+#form-contact label{ display: block; line-height: 2; font-size: 11px; }
+#form-contact input.text,
+#form-contact textarea,
+#form-contact select{ padding: 1px; font-size: 14px; color: #222; margin-bottom: 6px; font-weight: bold; font-family: Tahoma, Verdana, Arial; }
+
+input.submit{ padding: 3px; }
